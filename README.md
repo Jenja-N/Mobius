@@ -167,41 +167,41 @@ $$
 
 ## Ссылки
 
-[^1]: Robbin J., Salamon D., *The spectral flow and the Maslov index*, Bull. London Math. Soc. **27** (1995), 1–33. https://doi.org/10.1112/blms/27.1.1
+#[^1]: Robbin J., Salamon D., *The spectral flow and the Maslov index*, Bull. London Math. Soc. **27** (1995), 1–33. https://doi.org/10.1112/blms/27.1.1
 
-[^2]: Nicolaescu L.I., *The Maslov index, the spectral flow, and decompositions of manifolds*, Duke Math. J. **80** (1995), 485–533. https://doi.org/10.1215/S0012-7094-95-08018-1
+#[^2]: Nicolaescu L.I., *The Maslov index, the spectral flow, and decompositions of manifolds*, Duke Math. J. **80** (1995), 485–533. https://doi.org/10.1215/S0012-7094-95-08018-1
 
-[^3]: Bär C., Strohmaier A., *An index theorem for Lorentzian manifolds with compact spacelike Cauchy boundary*, arXiv:1506.00959 [math.DG] (2015).
+#[^3]: Bär C., Strohmaier A., *An index theorem for Lorentzian manifolds with compact spacelike Cauchy boundary*, arXiv:1506.00959 [math.DG] (2015).
 
-[^4]: Fukaya H. et al., *Mod-two APS index and domain-wall fermion*, arXiv:2012.03543 [hep-th] (2020); Lett. Math. Phys. **112**, 16 (2022).
+#[^4]: Fukaya H. et al., *Mod-two APS index and domain-wall fermion*, arXiv:2012.03543 [hep-th] (2020); Lett. Math. Phys. **112**, 16 (2022).
 
-[^5]: Bourne C., Carey A., Lesch M., Rennie A., *The KO-valued spectral flow for skew-adjoint Fredholm operators*, J. Topol. Anal. (2020), arXiv:1907.04981 [math.KT].
+#[^5]: Bourne C., Carey A., Lesch M., Rennie A., *The KO-valued spectral flow for skew-adjoint Fredholm operators*, J. Topol. Anal. (2020), arXiv:1907.04981 [math.KT].
 
-[^6]: Batic D., Schmid H., Winklmeier M., *The generalized Heun equation in Kerr-Newman-de Sitter and Kerr-Newman black hole spacetimes*, arXiv:math-ph/0402047 (2004); J. Phys. A **37** (2004), 11791–11805.
+#[^6]: Batic D., Schmid H., Winklmeier M., *The generalized Heun equation in Kerr-Newman-de Sitter and Kerr-Newman black hole spacetimes*, arXiv:math-ph/0402047 (2004); J. Phys. A **37** (2004), 11791–11805.
 
-[^7]: Aminov G., Grassi A., Hatsuda Y., *Black Hole Quasinormal Modes and Seiberg–Witten Theory*, Ann. Henri Poincaré **23** (2022), 1951–1996, arXiv:2006.06111 [hep-th].
+#[^7]: Aminov G., Grassi A., Hatsuda Y., *Black Hole Quasinormal Modes and Seiberg–Witten Theory*, Ann. Henri Poincaré **23** (2022), 1951–1996, arXiv:2006.06111 [hep-th].
 
-[^8]: Bonelli G. et al., *Exact WKB and Quantum Periods for Extremal Black Hole Quasinormal Modes*, arXiv:2105.04483 [hep-th] (2021); JHEP **11** (2021), 144.
+#[^8]: Bonelli G. et al., *Exact WKB and Quantum Periods for Extremal Black Hole Quasinormal Modes*, arXiv:2105.04483 [hep-th] (2021); JHEP **11** (2021), 144.
 
-[^9]: da Cunha B.C., Cavalcante J.P., *Teukolsky master equation and Painlevé transcendents: Numerics and extremal limit*, Phys. Rev. D **104** (2021), 084051, arXiv:2105.08790 [gr-qc].
+#[^9]: da Cunha B.C., Cavalcante J.P., *Teukolsky master equation and Painlevé transcendents: Numerics and extremal limit*, Phys. Rev. D **104** (2021), 084051, arXiv:2105.08790 [gr-qc].
 
-[^10]: Richartz M. et al., *Exceptional point and hysteresis in perturbations of Kerr black holes*, arXiv:2407.20850 [gr-qc] (2024).
+#[^10]: Richartz M. et al., *Exceptional point and hysteresis in perturbations of Kerr black holes*, arXiv:2407.20850 [gr-qc] (2024).
 
-[^11]: Kitaev A., *Periodic table for topological insulators and superconductors*, AIP Conf. Proc. **1134** (2009), 22–30, arXiv:0901.2686 [cond-mat.mes-hall].
+#[^11]: Kitaev A., *Periodic table for topological insulators and superconductors*, AIP Conf. Proc. **1134** (2009), 22–30, arXiv:0901.2686 [cond-mat.mes-hall].
 
-[^12]: Altland A., Zirnbauer M.R., *Nonstandard symmetry classes in mesoscopic normal-superconducting hybrid structures*, Phys. Rev. B **55** (1997), 1142–1161.
+#[^12]: Altland A., Zirnbauer M.R., *Nonstandard symmetry classes in mesoscopic normal-superconducting hybrid structures*, Phys. Rev. B **55** (1997), 1142–1161.
 
-[^13]: Chamseddine A.H., Connes A., *The spectral action principle*, Commun. Math. Phys. **186** (1997), 731–750.
+#[^13]: Chamseddine A.H., Connes A., *The spectral action principle*, Commun. Math. Phys. **186** (1997), 731–750.
 
-[^14]: Ambjørn J., Jurkiewicz J., Loll R., *Causal Dynamical Triangulations and the search for a theory of quantum gravity*, in: *Foundations of Space and Time*, Cambridge Univ. Press (2012); Scholarpedia.
+#[^14]: Ambjørn J., Jurkiewicz J., Loll R., *Causal Dynamical Triangulations and the search for a theory of quantum gravity*, in: *Foundations of Space and Time*, Cambridge Univ. Press (2012); Scholarpedia.
 
-[^15]: Dyatlov S., *Quasi-normal modes for Kerr–de Sitter black holes*, arXiv:1106.1636 [math.AP] (2011); Ann. Henri Poincaré **17** (2016), 1105–1168.
+#[^15]: Dyatlov S., *Quasi-normal modes for Kerr–de Sitter black holes*, arXiv:1106.1636 [math.AP] (2011); Ann. Henri Poincaré **17** (2016), 1105–1168.
 
-[^16]: Vasy A., *Microlocal analysis of asymptotically hyperbolic and Kerr–de Sitter spaces*, arXiv:1012.4391 [math.AP] (2010); Invent. Math. **194** (2013), 381–513.
+#[^16]: Vasy A., *Microlocal analysis of asymptotically hyperbolic and Kerr–de Sitter spaces*, arXiv:1012.4391 [math.AP] (2010); Invent. Math. **194** (2013), 381–513.
 
-[^17]: LIGO/Virgo/KAGRA, *Black Hole Spectroscopy and Tests of General Relativity with GW250114*, arXiv:2509.08099 [gr-qc] (2025).
+#[^17]: LIGO/Virgo/KAGRA, *Black Hole Spectroscopy and Tests of General Relativity with GW250114*, arXiv:2509.08099 [gr-qc] (2025).
 
-[^18]: Connes A., *Noncommutative geometry and reality*, J. Math. Phys. **36** (1995), 6194–6231.
+#[^18]: Connes A., *Noncommutative geometry and reality*, J. Math. Phys. **36** (1995), 6194–6231.
 
 ---
 
